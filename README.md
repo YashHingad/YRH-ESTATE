@@ -2,7 +2,7 @@
 
 # YRH Estate
 
-YRH Estate is a full-featured Real Estate web application built using the MERN stack, designed to offer a modern and seamless experience for property listings, searches, and user authentication.
+YRH Estate is a full-featured Real Estate web application built using the MERN stack, designed to offer a modern and seamless experience for property listings, searches and user authentication.
 
 ## Features
 
