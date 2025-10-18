@@ -250,7 +250,7 @@ export default function Profile() {
         <div className=" flex flex-col gap-4">
           <h1 className="text-center mt-7 text-2xl font-semibold ">
             {" "}
-            Your Listing
+            Your Listings
           </h1>
           {userListings.map((listing) => (
             <div
